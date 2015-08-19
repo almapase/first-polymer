@@ -1,0 +1,19 @@
+{
+  "name": "Hola-mundo-polymer",
+  "version": "1.0.0",
+  "description": "primer intento con polymer",
+  "authors": [
+    "Alex <alex@landes.cl>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  }
+}
